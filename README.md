@@ -8,3 +8,6 @@ Every CoroutineBackgroundTask has a generic type for Progress (Reporting Progres
 when Background-Action is over.
 
 CAUTION: Set the mainDispatcher to another value than Dispatchers.Main when you are not operating on Android
+
+## KotlinCoreExtensions
+This file contains useful extensions for Null-Handling, Casting and Strings.
